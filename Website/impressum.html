@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Impressum - Airplane Sizing Project</title>
+<title>Contact - Airplane Sizing Project</title>
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -11,11 +11,15 @@
     color: #333;
     margin: 0;
     padding: 0;
-    flex-direction: column;
-    min-height: 100vh;
+  }
+  header {
+    background-image: url('Giant_planes_comparison_Side.svg'); /* Replace with image URL */
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
   }
   .container {
-    flex: 1;
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
@@ -27,13 +31,18 @@
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   }
   footer {
-    background-color: #666;
+    background-color: #555;
     color: #fff;
     text-align: center;
     padding: 10px;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
+  }
+  footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
   }
   nav {
     background-color: #555;
