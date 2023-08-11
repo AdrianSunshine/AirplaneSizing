@@ -1,5 +1,3 @@
-# Airplane Sizing
-
 # Airplane Sizing Project
 
 **Disclaimer: The contents provided in this project are for personal use and educational purposes only. The information presented here may not be accurate or up-to-date. Use at your own discretion.**
@@ -9,11 +7,11 @@ Copyright: 2023 Adrian Sonnemann
 
 ## Introduction
 
-Welcome to the Airplane Sizing project! This is a personal project aimed at assisting aircraft engineers, designers, and enthusiasts in determining suitable dimensions for various types of airplanes. The project provides resources and tools to help make informed decisions about airplane sizing, but please note that the information here may not be accurate or current.
+Welcome to my Airplane Sizing Project! This is a personal project aimed at assisting someone in determining suitable dimensions for various types of airplanes. The project provides resources and tools to help make informed decisions about airplane sizing, but please note that the information here may not be accurate or current.
 
 ## Purpose
 
-The primary purpose of this project is to provide myself with a platform to explore and understand the concepts of airplane sizing. It's a playground for experimenting with different formulas, calculations, and design considerations related to aircraft dimensions. While the project is designed for personal use, enthusiasts and curious minds are welcome to take a quick look to gain insights into the world of airplane sizing.
+The primary purpose of this project is to provide myself with a platform to explore and understand the concepts of airplane sizing. It's a playground for experimenting with different formulas, calculations, and design considerations related to aircraft dimensions. While the project is designed for personal use, enthusiasts and curious minds are welcome to take a quick look and may share feedback.
 
 ## Usage
 
@@ -25,7 +23,7 @@ Please be aware that the contents of this project are not meant to be authoritat
 
 ## Contact
 
-If you have any questions, comments, or suggestions about this project, feel free to contact me at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions, comments, or suggestions about this project, feel free to contact me at [sonnemann.adrian@gmail.com](mailto:sonnemann.adrian@gmail.com).
 
 ## License
 
