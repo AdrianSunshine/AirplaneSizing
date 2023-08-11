@@ -23,7 +23,7 @@ Please be aware that the contents of this project are not meant to be authoritat
 
 ## Contact
 
-If you have any questions, comments, or suggestions about this project, feel free to contact me at [sonnemann.adrian@gmail.com](mailto:sonnemann.adrian@gmail.com).
+If you have any questions, comments, or suggestions about this project, feel free to [contact me](mailto:sonnemann.adrian@gmail.com).
 
 ## License
 
