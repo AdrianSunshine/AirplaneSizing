@@ -1,0 +1,37 @@
+// What Dimensions should be calculated?
+
+Wing Loading (WL):
+This is the weight of the aircraft divided by the wing area. It helps determine how much load the wings need to carry.
+
+Formula: WL = Aircraft Weight / Wing Area
+
+Aspect Ratio (AR):
+Aspect ratio is the ratio of the wingspan to the mean chord (average width) of the wings. It affects the lift distribution and overall aerodynamic efficiency.
+
+Formula: AR = Wingspan / Mean Chord
+
+Thrust-to-Weight Ratio (TWR):
+TWR measures the ratio of the thrust produced by the engines to the weight of the aircraft. It indicates the aircraft's ability to accelerate and climb.
+
+Formula: TWR = Thrust / Aircraft Weight
+
+Cruise Speed (Vc):
+The desired speed the aircraft will maintain during cruising. It affects fuel consumption and travel time.
+
+Takeoff Distance (TOFL):
+The distance required for the aircraft to accelerate and become airborne. It depends on the aircraft's weight, thrust, wing area, and aerodynamic characteristics.
+
+Landing Distance (LDL):
+The distance required for the aircraft to decelerate and come to a complete stop after landing. It considers the aircraft's weight, drag, braking systems, and runway conditions.
+
+Maximum Mach Number (Mmo or Mmax):
+The highest Mach number an aircraft can safely achieve. It's important for high-speed performance and supersonic flight.
+
+Stall Speed (Vs):
+The minimum speed at which the aircraft can maintain controlled flight. It's crucial for takeoff, landing, and slow-speed maneuvering.
+
+Payload Range Diagram:
+This diagram depicts the relationship between payload carried and the range an aircraft can travel. It considers fuel efficiency, weight, and payload.
+
+Lift-to-Drag Ratio (L/D):
+L/D ratio measures the efficiency of an aircraft's aerodynamics. A higher L/D ratio indicates better fuel efficiency and longer gliding range
