@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Airplane Sizing</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #3498db;
+    font-family: Arial, sans-serif;
+    color: white;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>Airplane Sizing</h1>
+    <p>Welcome to my Airplane Sizing webpage. The aim of this platform is to help myself, but maybe also some other inthusiasts, to determine the appropriate size and dimensions for various types of airplanes.</p>
+  </div>
+</body>
+</html>
